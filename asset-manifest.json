@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Template-React-Portfolio-Project/static/css/main.d33e4e0a.chunk.css",
-    "main.js": "/Template-React-Portfolio-Project/static/js/main.fcca2a54.chunk.js",
-    "main.js.map": "/Template-React-Portfolio-Project/static/js/main.fcca2a54.chunk.js.map",
-    "runtime-main.js": "/Template-React-Portfolio-Project/static/js/runtime-main.8e830075.js",
-    "runtime-main.js.map": "/Template-React-Portfolio-Project/static/js/runtime-main.8e830075.js.map",
-    "static/js/2.26b469b2.chunk.js": "/Template-React-Portfolio-Project/static/js/2.26b469b2.chunk.js",
-    "static/js/2.26b469b2.chunk.js.map": "/Template-React-Portfolio-Project/static/js/2.26b469b2.chunk.js.map",
-    "index.html": "/Template-React-Portfolio-Project/index.html",
-    "static/css/main.d33e4e0a.chunk.css.map": "/Template-React-Portfolio-Project/static/css/main.d33e4e0a.chunk.css.map",
-    "static/js/2.26b469b2.chunk.js.LICENSE.txt": "/Template-React-Portfolio-Project/static/js/2.26b469b2.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Template-React-Portfolio-Project/static/media/img-9.f97f588f.jpg"
+    "main.css": "/Portfolio-/static/css/main.e972e9e7.chunk.css",
+    "main.js": "/Portfolio-/static/js/main.6f9ec157.chunk.js",
+    "main.js.map": "/Portfolio-/static/js/main.6f9ec157.chunk.js.map",
+    "runtime-main.js": "/Portfolio-/static/js/runtime-main.e94f0ad4.js",
+    "runtime-main.js.map": "/Portfolio-/static/js/runtime-main.e94f0ad4.js.map",
+    "static/js/2.e46d995a.chunk.js": "/Portfolio-/static/js/2.e46d995a.chunk.js",
+    "static/js/2.e46d995a.chunk.js.map": "/Portfolio-/static/js/2.e46d995a.chunk.js.map",
+    "index.html": "/Portfolio-/index.html",
+    "static/css/main.e972e9e7.chunk.css.map": "/Portfolio-/static/css/main.e972e9e7.chunk.css.map",
+    "static/js/2.e46d995a.chunk.js.LICENSE.txt": "/Portfolio-/static/js/2.e46d995a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Portfolio-/static/media/img-9.f97f588f.jpg",
+    "static/media/jobpic.7d7d10ce.jpg": "/Portfolio-/static/media/jobpic.7d7d10ce.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e830075.js",
-    "static/js/2.26b469b2.chunk.js",
-    "static/css/main.d33e4e0a.chunk.css",
-    "static/js/main.fcca2a54.chunk.js"
+    "static/js/runtime-main.e94f0ad4.js",
+    "static/js/2.e46d995a.chunk.js",
+    "static/css/main.e972e9e7.chunk.css",
+    "static/js/main.6f9ec157.chunk.js"
   ]
 }

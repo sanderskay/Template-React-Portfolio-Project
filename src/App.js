@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Services from "./components/pages/Services";
 import Contact from "./components/pages/Contact";
 import SignUp from "./components/pages/SignUp";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,7 +18,9 @@ function App() {
           <Route path="/services" component={Services} />
           <Route path="/contact" component={Contact} />
           <Route path="/sign-up" component={SignUp} />
+          <Route path="*" component={Home} />
         </Switch>
+        <Footer />
       </Router>
     </>
   );

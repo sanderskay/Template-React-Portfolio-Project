@@ -2,13 +2,14 @@ import React from "react";
 import "../App.css";
 import { Button } from "./Button";
 import "./HeroSection.css";
+import pic7 from "../images/p4.jpg";
 
 function HeroSection() {
   return (
     <div className="hero-container">
-      <img src="./images/img-9.jpg" alt="" />
+      <img src={pic7} alt="" />
       <h1>REACT</h1>
-      <p>Template design</p>
+      <p>Template Product Page</p>
       <div className="hero-btns">
         <Button
           className="btns"

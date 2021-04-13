@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio-/static/css/main.e972e9e7.chunk.css",
-    "main.js": "/Portfolio-/static/js/main.6f9ec157.chunk.js",
-    "main.js.map": "/Portfolio-/static/js/main.6f9ec157.chunk.js.map",
-    "runtime-main.js": "/Portfolio-/static/js/runtime-main.e94f0ad4.js",
-    "runtime-main.js.map": "/Portfolio-/static/js/runtime-main.e94f0ad4.js.map",
-    "static/js/2.e46d995a.chunk.js": "/Portfolio-/static/js/2.e46d995a.chunk.js",
-    "static/js/2.e46d995a.chunk.js.map": "/Portfolio-/static/js/2.e46d995a.chunk.js.map",
-    "index.html": "/Portfolio-/index.html",
-    "static/css/main.e972e9e7.chunk.css.map": "/Portfolio-/static/css/main.e972e9e7.chunk.css.map",
-    "static/js/2.e46d995a.chunk.js.LICENSE.txt": "/Portfolio-/static/js/2.e46d995a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Portfolio-/static/media/img-9.f97f588f.jpg",
-    "static/media/jobpic.7d7d10ce.jpg": "/Portfolio-/static/media/jobpic.7d7d10ce.jpg"
+    "main.css": "/React-Product-Page/static/css/main.340e82d4.chunk.css",
+    "main.js": "/React-Product-Page/static/js/main.308a12a8.chunk.js",
+    "main.js.map": "/React-Product-Page/static/js/main.308a12a8.chunk.js.map",
+    "runtime-main.js": "/React-Product-Page/static/js/runtime-main.54877322.js",
+    "runtime-main.js.map": "/React-Product-Page/static/js/runtime-main.54877322.js.map",
+    "static/js/2.26b469b2.chunk.js": "/React-Product-Page/static/js/2.26b469b2.chunk.js",
+    "static/js/2.26b469b2.chunk.js.map": "/React-Product-Page/static/js/2.26b469b2.chunk.js.map",
+    "index.html": "/React-Product-Page/index.html",
+    "static/css/main.340e82d4.chunk.css.map": "/React-Product-Page/static/css/main.340e82d4.chunk.css.map",
+    "static/js/2.26b469b2.chunk.js.LICENSE.txt": "/React-Product-Page/static/js/2.26b469b2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Product-Page/static/media/p3.9c94e494.jpg",
+    "static/media/p4.97ea9b75.jpg": "/React-Product-Page/static/media/p4.97ea9b75.jpg",
+    "static/media/pic1.0a1fd240.jfif": "/React-Product-Page/static/media/pic1.0a1fd240.jfif",
+    "static/media/pic2.b7496a91.jfif": "/React-Product-Page/static/media/pic2.b7496a91.jfif",
+    "static/media/pic3.e481df37.jfif": "/React-Product-Page/static/media/pic3.e481df37.jfif",
+    "static/media/pic4.60b9e230.jfif": "/React-Product-Page/static/media/pic4.60b9e230.jfif",
+    "static/media/pic5.58b8f201.jfif": "/React-Product-Page/static/media/pic5.58b8f201.jfif",
+    "static/media/pic6.cf745e3f.jfif": "/React-Product-Page/static/media/pic6.cf745e3f.jfif"
   },
   "entrypoints": [
-    "static/js/runtime-main.e94f0ad4.js",
-    "static/js/2.e46d995a.chunk.js",
-    "static/css/main.e972e9e7.chunk.css",
-    "static/js/main.6f9ec157.chunk.js"
+    "static/js/runtime-main.54877322.js",
+    "static/js/2.26b469b2.chunk.js",
+    "static/css/main.340e82d4.chunk.css",
+    "static/js/main.308a12a8.chunk.js"
   ]
 }
